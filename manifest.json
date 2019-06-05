@@ -1,0 +1,14 @@
+{
+   "name": "BoolToImage",
+   "type": ["boolean"],
+   "binding": "imageNamed",
+   "choiceList": [
+   					"true.png",
+   					"false.png"
+   					],
+   					   "assets": {
+  "size": {
+   "width": 50, "height": 50
+		}
+	}
+}
