@@ -4,6 +4,11 @@
 
 * **Format:** Bool ⟶ Image
 * **Type:** basic formatter
+ 
+| bool | image |
+| - | - |
+| false | <img src="Images/false.png" width="25" height="25" /> |
+| true  | <img src="Images/true.png" width="25" height="25" /> |
 
 ## How to integrate
 
